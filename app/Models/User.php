@@ -21,6 +21,9 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'rfc',
+        'direccion',
+        'website'
     ];
 
     /**
@@ -41,4 +44,10 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    
+
+    public function contactos(){
+        return $this->hasMany(Agenda::class);
+    }
 }

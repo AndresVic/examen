@@ -1,6 +1,7 @@
 {
     "E-Mail Address": "Correo electrónico",
     "Password": "Contraseña",
+    "Already have an account?": "¿Ya tienes una cuenta?",
     "Remember Me": "Recuérdame",
     "Login": "Acceder",
     "Forgot Your Password?": "¿Olvidaste tu contraseña?",
@@ -29,5 +30,9 @@
     "Before proceeding, please check your email for a verification link.": "Antes de poder continuar, por favor, confirma tu correo electrónico con el enlace que te hemos enviado.",
     "If you did not receive the email": "Si no has recibido el email",
     "click here to request another": "pulsa aquí para que te enviemos otro",
-    "All rights reserved.":  "Todos los derechos reservados."
+    "All rights reserved.":  "Todos los derechos reservados.",
+    "Whoops! Something went wrong.":"¡Vaya! Algo salió mal.",
+    "Are you connected!": "¡Estás conectado!",
+    "Home": "Inicio",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "¿Olvidaste tu contraseña? No hay problema. Simplemente háganos saber su dirección de correo electrónico, RFC y le enviaremos un enlace de restablecimiento de contraseña que le permitirá elegir una nueva."
 }
